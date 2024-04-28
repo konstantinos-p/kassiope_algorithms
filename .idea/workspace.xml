@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6836d070-8d3e-41a9-82de-874e5a0eed31" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M3Wcbd1cD6G3LVfB69GtfQcGou" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pkonstan/PycharmProjects/kassiope_algorithms/2027-06-25_election&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2027-06-25_election" />
+      <recent name="$PROJECT_DIR$/2023-06-25_election" />
+      <recent name="$PROJECT_DIR$/../per_country_poll_analysis/greece/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2023-5-21_election" />
+      <recent name="$PROJECT_DIR$/../advanced_europepolls_party_analysis" />
+      <recent name="$PROJECT_DIR$/../advanced_europepolls_party_analysis/countries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_seat_projection">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kassiope_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2027-06-25_election" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2027-06-25_election/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="kassiope_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023-5-21_election/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seat_scenarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kassiope_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2027-06-25_election" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2027-06-25_election/seat_scenarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="small_parties_odds_of_entry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kassiope_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2027-06-25_election" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2027-06-25_election/small_parties_odds_of_entry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_seat_projection (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kassiope_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2023-06-25_election" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023-06-25_election/test_seat_projection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_seat_projection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kassiope_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2027-06-25_election" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2027-06-25_election/test_seat_projection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_seat_projection" />
+        <item itemvalue="Python.small_parties_odds_of_entry" />
+        <item itemvalue="Python.seat_scenarios" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.test_seat_projection (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6836d070-8d3e-41a9-82de-874e5a0eed31" name="Changes" comment="" />
+      <created>1676996827869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676996827869</updated>
+      <workItem from="1676996829001" duration="14000" />
+      <workItem from="1676997060246" duration="148000" />
+      <workItem from="1676997278154" duration="711000" />
+      <workItem from="1676998003874" duration="20000" />
+      <workItem from="1676998042468" duration="432000" />
+      <workItem from="1676998512084" duration="129000" />
+      <workItem from="1676998667249" duration="105000" />
+      <workItem from="1676998793912" duration="3685000" />
+      <workItem from="1677002918301" duration="8000" />
+      <workItem from="1677002972753" duration="82000" />
+      <workItem from="1677003069536" duration="3935000" />
+      <workItem from="1677160655579" duration="1974000" />
+      <workItem from="1677168340404" duration="2168000" />
+      <workItem from="1677319126087" duration="189000" />
+      <workItem from="1677327482003" duration="3397000" />
+      <workItem from="1677333936010" duration="1100000" />
+      <workItem from="1677753995772" duration="1263000" />
+      <workItem from="1678179737372" duration="76000" />
+      <workItem from="1678184477365" duration="28000" />
+      <workItem from="1678352197790" duration="47000" />
+      <workItem from="1678352481058" duration="1157000" />
+      <workItem from="1678539183127" duration="310000" />
+      <workItem from="1678549077622" duration="2074000" />
+      <workItem from="1679557154368" duration="1387000" />
+      <workItem from="1679665404480" duration="9797000" />
+      <workItem from="1680425393372" duration="1380000" />
+      <workItem from="1680686926589" duration="1094000" />
+      <workItem from="1680873909136" duration="161000" />
+      <workItem from="1680951830277" duration="5966000" />
+      <workItem from="1680957855596" duration="189000" />
+      <workItem from="1680959672329" duration="1457000" />
+      <workItem from="1680961239156" duration="16000" />
+      <workItem from="1680961270295" duration="165000" />
+      <workItem from="1681234732792" duration="4000" />
+      <workItem from="1681316161674" duration="2883000" />
+      <workItem from="1681319059283" duration="73000" />
+      <workItem from="1681319405191" duration="226000" />
+      <workItem from="1681459084814" duration="42000" />
+      <workItem from="1682434712782" duration="775000" />
+      <workItem from="1682436379003" duration="3694000" />
+      <workItem from="1682498718311" duration="137000" />
+      <workItem from="1682498860993" duration="4000" />
+      <workItem from="1682511255961" duration="13127000" />
+      <workItem from="1682583768505" duration="14572000" />
+      <workItem from="1682696053231" duration="1624000" />
+      <workItem from="1682927388709" duration="4856000" />
+      <workItem from="1682959788774" duration="266000" />
+      <workItem from="1683048075671" duration="423000" />
+      <workItem from="1683126838391" duration="2202000" />
+      <workItem from="1683187701548" duration="4962000" />
+      <workItem from="1683193917771" duration="962000" />
+      <workItem from="1683621882952" duration="727000" />
+      <workItem from="1683625345342" duration="1833000" />
+      <workItem from="1683987850862" duration="912000" />
+      <workItem from="1683999900890" duration="1357000" />
+      <workItem from="1684226124365" duration="1199000" />
+      <workItem from="1684311637378" duration="264000" />
+      <workItem from="1685022188739" duration="1099000" />
+      <workItem from="1685540960492" duration="28000" />
+      <workItem from="1685543060179" duration="22000" />
+      <workItem from="1685700595579" duration="10081000" />
+      <workItem from="1685713591989" duration="4318000" />
+      <workItem from="1686160135526" duration="38000" />
+      <workItem from="1686824562875" duration="5352000" />
+      <workItem from="1687309364168" duration="935000" />
+      <workItem from="1687580596237" duration="1694000" />
+      <workItem from="1687583027691" duration="7569000" />
+      <workItem from="1696662498719" duration="1406000" />
+      <workItem from="1696663956500" duration="651000" />
+      <workItem from="1696842587548" duration="204000" />
+      <workItem from="1698567949770" duration="614000" />
+      <workItem from="1698838316929" duration="988000" />
+      <workItem from="1698839942967" duration="127000" />
+      <workItem from="1699035710131" duration="794000" />
+      <workItem from="1699377818942" duration="535000" />
+      <workItem from="1699463903534" duration="603000" />
+      <workItem from="1700218669658" duration="313000" />
+      <workItem from="1700301473348" duration="360000" />
+      <workItem from="1700337326229" duration="707000" />
+      <workItem from="1700671369128" duration="1482000" />
+      <workItem from="1700674452194" duration="444000" />
+      <workItem from="1700676325706" duration="861000" />
+      <workItem from="1701973560236" duration="621000" />
+      <workItem from="1703432463216" duration="969000" />
+      <workItem from="1704901689813" duration="861000" />
+      <workItem from="1704968680521" duration="600000" />
+      <workItem from="1705481613218" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/main.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/small_parties_odds_of_entry.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/download_data.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/macroeconomic_comparison.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../advanced_europepolls_party_analysis/test_advanced_analysis_utils.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../advanced_europepolls_party_analysis/test_advanced_analysis_utils.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../per_country_poll_analysis/greece/test_seat_allocation.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../per_country_poll_analysis/greece/test_seat_allocation.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/analyze_mean_seat_projection_per_division.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/test_seat_projection.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/seat_scenarios.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/test_seat_projection.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-05-21_election/seat_scenarios.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-06-25_election/main.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-06-25_election/small_parties_odds_of_entry.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-06-25_election/test_seat_projection.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2023-06-25_election/seat_scenarios.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$macroeconomic_comparison.coverage" NAME="macroeconomic_comparison Coverage Results" MODIFIED="1679670246219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$seat_projection.coverage" NAME="test_seat_projection Coverage Results" MODIFIED="1682520042782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$small_parties_odds_of_entry__1_.coverage" NAME="small_parties_odds_of_entry (1) Coverage Results" MODIFIED="1687584935645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$small_parties_odds_of_entry.coverage" NAME="small_parties_odds_of_entry Coverage Results" MODIFIED="1705482019827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2027-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$test_seat_projection.coverage" NAME="test_seat_projection Coverage Results" MODIFIED="1705482031659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2027-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$seat_scenarios__1_.coverage" NAME="seat_scenarios (1) Coverage Results" MODIFIED="1687584933045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$seat_scenarios.coverage" NAME="seat_scenarios Coverage Results" MODIFIED="1705482008180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2027-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$download_data.coverage" NAME="download_data Coverage Results" MODIFIED="1679669032158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1687584930257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1705481993145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2027-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$test_seat_projection__1_.coverage" NAME="test_seat_projection (1) Coverage Results" MODIFIED="1687592619519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2023-06-25_election" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$.coverage" NAME=" Coverage Results" MODIFIED="1682512196952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../per_country_poll_analysis/greece" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$analyze_mean_seat_projection_per_division.coverage" NAME="analyze_mean_seat_projection_per_division Coverage Results" MODIFIED="1682525786582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kassiope_algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1683988338506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
